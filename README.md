@@ -36,10 +36,11 @@ dependencies {
 }
 ```
 ## Preview
+## Videos in Horizontal Table
 
 | Default| Reversed | Customised |
 | --- | --- | --- |
-| ![GIF 1](Preview/prev01.gif)  | ![GIF 1](Preview/prev02.gif)   | ![GIF 1](Preview/prev03.gif) |
+| ![GIF 1](Preview/prev01.gif)  | ![GIF 2](Preview/prev02.gif)   | ![GIF 3](Preview/prev03.gif) |
 
 ## Usage in XML
 ````
