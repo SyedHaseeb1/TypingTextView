@@ -1,11 +1,10 @@
-# Typing-Text Library
+# TypingTextView Library
 
 Typing-Text is a library that provides a typewriter-like animation effect for your Android TextView.
 
 ## Installation
 ### Pre-Requisites
 
-* Android 13 support
 * Minumum SDK 21
 * Built with 7.2 Gradle
 ***
@@ -36,6 +35,13 @@ dependencies {
     implementation("com.github.syedhaseeb1:TypingTextView:$latestVersion")
 }
 ```
+## Preview
+## Videos in Horizontal Table
+
+| Default| Reversed | Customised |
+| --- | --- | --- |
+| <video width="300" height="200" controls><source src="prev01.mp4" type="video/mp4"></video> | <video width="300" height="200" controls><source src="prev02.mp4" type="video/mp4"></video> | <video width="300" height="200" controls><source src="prev03.mp4" type="video/mp4"></video> |
+
 ## Usage in XML
 ````
 <com.hsb.typingtext.TypingTextView
@@ -58,22 +64,22 @@ dependencies {
 
 ### XML Attributes
 ````
-app:animSpeed:"int" 
+app:animSpeed:"int"
 Sets the animation speed (default is 20).
 ````
 
 ````
-app:fadeOnEnd:"boolean" 
+app:fadeOnEnd:"boolean"
 Enables fading of the text at the end of the animation (default is true).
 ````
 ````
-app:repeatMode:"mode" 
+app:repeatMode:"mode"
 Sets the repeat mode of the animation (default is restart).
 restart, reversed, noRepeat
 ````
 
 ````
-app:reversed:"boolean" 
+app:reversed:"boolean"
 Reverses the animation if true (default is false).
 ````
 
