@@ -1,4 +1,7 @@
 package com.hsb.typingtext
 
-class TestImplementation {
+import androidx.appcompat.app.AppCompatActivity
+
+class TestImplementation : AppCompatActivity() {
+    val typing = TypingTextView(this)
 }

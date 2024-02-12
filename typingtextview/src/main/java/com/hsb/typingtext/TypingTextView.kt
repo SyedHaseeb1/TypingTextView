@@ -8,6 +8,7 @@ import androidx.appcompat.widget.AppCompatTextView
 import android.animation.ValueAnimator
 import android.view.animation.Animation
 import android.view.animation.AnimationUtils
+import com.hsb.typingtextview.R
 
 /**
  * Developed by Syed Haseeb
