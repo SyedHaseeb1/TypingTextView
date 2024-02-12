@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TypingTextView"
+rootProject.name = "TypingText"
 include ':app'
-include ':typingtextview'
+include ':typingtext'

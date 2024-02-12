@@ -28,6 +28,10 @@
         "source": "/home/syedhaseeb/AndroidStudioProjects/TypingText/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
     },
     {
+        "merged": "/home/syedhaseeb/AndroidStudioProjects/TypingText/app/build/intermediates/merged_res/debug/layout_test.xml.flat",
+        "source": "/home/syedhaseeb/AndroidStudioProjects/TypingText/app/src/main/res/layout/test.xml"
+    },
+    {
         "merged": "/home/syedhaseeb/AndroidStudioProjects/TypingText/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "/home/syedhaseeb/AndroidStudioProjects/TypingText/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },

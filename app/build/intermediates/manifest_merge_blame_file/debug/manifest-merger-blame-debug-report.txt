@@ -40,30 +40,29 @@
 25-->/home/syedhaseeb/AndroidStudioProjects/TypingText/app/src/main/AndroidManifest.xml:11:9-54
 26        android:supportsRtl="true"
 26-->/home/syedhaseeb/AndroidStudioProjects/TypingText/app/src/main/AndroidManifest.xml:12:9-35
-27        android:testOnly="true"
-28        android:theme="@style/Theme.AppCompat" >
-28-->/home/syedhaseeb/AndroidStudioProjects/TypingText/app/src/main/AndroidManifest.xml:13:9-47
-29        <provider
-29-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-30            android:name="androidx.startup.InitializationProvider"
-30-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
-31            android:authorities="com.hsb.typingtext.androidx-startup"
-31-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
-32            android:exported="false" >
-32-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
-33            <meta-data
-33-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-34                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-34-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
-35                android:value="androidx.startup" />
-35-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
-36            <meta-data
-36-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedhaseeb/.gradle/caches/transforms-3/87b5f19f9792bcda1823979e59644c33/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-37                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-37-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedhaseeb/.gradle/caches/transforms-3/87b5f19f9792bcda1823979e59644c33/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-38                android:value="androidx.startup" />
-38-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedhaseeb/.gradle/caches/transforms-3/87b5f19f9792bcda1823979e59644c33/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-39        </provider>
-40    </application>
-41
-42</manifest>
+27        android:theme="@style/Theme.AppCompat" >
+27-->/home/syedhaseeb/AndroidStudioProjects/TypingText/app/src/main/AndroidManifest.xml:13:9-47
+28        <provider
+28-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+29            android:name="androidx.startup.InitializationProvider"
+29-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+30            android:authorities="com.hsb.typingtext.androidx-startup"
+30-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+31            android:exported="false" >
+31-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+32            <meta-data
+32-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+33                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+33-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+34                android:value="androidx.startup" />
+34-->[androidx.emoji2:emoji2:1.0.0] /home/syedhaseeb/.gradle/caches/transforms-3/2096bfc43473c0b3f9ceb8a9b7ae2d02/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+35            <meta-data
+35-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedhaseeb/.gradle/caches/transforms-3/87b5f19f9792bcda1823979e59644c33/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+36                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+36-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedhaseeb/.gradle/caches/transforms-3/87b5f19f9792bcda1823979e59644c33/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+37                android:value="androidx.startup" />
+37-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/syedhaseeb/.gradle/caches/transforms-3/87b5f19f9792bcda1823979e59644c33/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+38        </provider>
+39    </application>
+40
+41</manifest>

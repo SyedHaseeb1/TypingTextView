@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TypingTextView">
+        <attr name="animSpeed" format="integer" />
+        <attr name="repeatMode">
+            <enum name="restart" value="0" />
+            <enum name="reverse" value="1" />
+            <enum name="noRepeat" value="2" />
+        </attr>
+        <attr name="reversed" format="boolean" />
+        <attr name="fadeOnEnd" format="boolean" />
+    </declare-styleable>
+</resources>
