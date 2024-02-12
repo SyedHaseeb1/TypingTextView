@@ -40,7 +40,7 @@ dependencies {
 
 | Default| Reversed | Customised |
 | --- | --- | --- |
-| <video width="300" height="200" controls><source src="Preview/prev01.mp4" type="video/mp4"></video> | <video width="300" height="200" controls><source src="Preview/prev02.mp4" type="video/mp4"></video> | <video width="300" height="200" controls><source src="Preview/prev03.mp4" type="video/mp4"></video> |
+| ![GIF 1](Preview/prev01.gif)  | ![GIF 1](Preview/prev02.gif)   | ![GIF 1](Preview/prev03.gif) |
 
 ## Usage in XML
 ````
