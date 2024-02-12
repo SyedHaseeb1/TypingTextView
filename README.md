@@ -36,7 +36,6 @@ dependencies {
 }
 ```
 ## Preview
-## Videos in Horizontal Table
 
 | Default| Reversed | Customised |
 | --- | --- | --- |
