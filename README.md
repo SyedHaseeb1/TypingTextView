@@ -21,7 +21,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.syedhaseeb1:Typing-Text:$latestVersion'
+    implementation 'com.github.syedhaseeb1:TypingTextView:$latestVersion'
 }
 ```
 
@@ -33,7 +33,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.syedhaseeb1:Typing-Text:$latestVersion")
+    implementation("com.github.syedhaseeb1:TypingTextView:$latestVersion")
 }
 ```
 ## Usage in XML
